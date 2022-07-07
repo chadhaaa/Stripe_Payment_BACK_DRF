@@ -133,7 +133,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = ['http://localhost:3000']
 
-STRIPE_SECRET_KEY = 'sk_test_51LIqOfKaYi8dHCG0zej1kfeMm5HWucyzqb1tq0Rj4OrdPUPlixRlsO1RtOK081ZcpM3w4CYOIZIRWOzni51IzyJj00gnKQOS4e'
-STRIPE_PUBLIC_KEY = 'pk_test_51LIqOfKaYi8dHCG0bQwJb6Fg8BgKom2MKAlMe9S95QYSP9oRYPwhqDVG6hr016jPSv3vpwHUfa0msQNYw3WNNBv200DEYqIjkZ'
+
 
 SITE_URL = 'http://localhost:3000/'
