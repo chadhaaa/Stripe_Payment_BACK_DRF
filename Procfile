@@ -1,1 +1,1 @@
-web: gunicorn django_stripe.wsgi --log-file -
+web: gunicorn stripe_django_react.wsgi --log-file -
